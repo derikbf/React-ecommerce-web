@@ -1,34 +1,75 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## Getting Started
+![MainImg](https://i.ibb.co/qpTmRJw/ecommerce-01.png)
 
-First, run the development server:
+## Ecommerce - API 
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+Este repositório é composto por uma aplicação Web (React) desenvolvida ao longo do **[BOOTCAMP ONE BIT CODE](https://onebitcode.com/)**.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+**Principais tecnologias utilizadas:** <br>
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+![enter image description here](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white) ![enter image description here](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![enter image description here](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+## Outras tecnologias utilizadas:
+ 
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+**Mailing**
 
-## Learn More
+- **[MailCatcher](https://mailcatcher.me/)**
 
-To learn more about Next.js, take a look at the following resources:
+**Auth**
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- **[Devise Token Auth](https://github.com/lynndylanhurley/devise_token_auth)**
+  
+**API**
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+- **[Rack-cors](https://github.com/cyu/rack-cors)**
+ 
+**Testes**:
 
-## Deploy on Vercel
+- **[Rspec](https://github.com/rspec/rspec-rails)**
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+- **[Shoulda-matchers](https://github.com/thoughtbot/shoulda-matchers)**
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+- **[FactoryBot](https://github.com/thoughtbot/factory_bot_rails)**
+
+- **[Faker](https://github.com/faker-ruby/faker)**
+
+**JSON**:
+
+- **[JBuilder](https://github.com/rails/jbuilder)**
+
+**Idioma**
+
+- **[I18n](https://github.com/ruby-i18n/i18n)**
+
+## Testes
+
+Foram desenvolvidos ao longo do curso mais de 200 testes.
+![Testes](https://i.ibb.co/GTZW0Df/ecommerce-02.png)
+
+## Etapas de desenvolvimento
+
+### Semana 01 (10.01.22 a 17.01.22) - Desenvolvimento inicial do Projeto Web:
+
+Ao longo da primeira semana de desenvolvimento foram completadas as seguintes tarefas (em andamento):
+
+- Dando Start no frontend do Admin;
+- React, Typescript e Bootstrap
+- Entendendo o Next.js
+- Criando o nosso App
+- Instalando o Bootstrap
+- Criando o nosso Header
+- Criando o nosso Footer
+- Criando a página de login
+- Configurando o Redux
+- Configurando a nossa API
+- Criando nossas Rotas Protegidas do Admin
+- Configurando a lógica de autenticação
+- Criando o Header do Admin
+- Criando o Footer do Admin
+- Criando o Menu lateral
+- Preparando os CRUDs
+- Preparando a Paginação
+
+
+Obs: Readme será atualizado ao longo do curso
