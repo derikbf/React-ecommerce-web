@@ -42,11 +42,6 @@ Este repositório é composto por uma aplicação Web (React) desenvolvida ao lo
 
 - **[I18n](https://github.com/ruby-i18n/i18n)**
 
-## Testes
-
-Foram desenvolvidos ao longo do curso mais de 200 testes.
-![Testes](https://i.ibb.co/GTZW0Df/ecommerce-02.png)
-
 ## Etapas de desenvolvimento
 
 ### Semana 01 (10.01.22 a 17.01.22) - Desenvolvimento inicial do Projeto Web:
