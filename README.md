@@ -1,7 +1,7 @@
 
 ![MainImg](https://i.ibb.co/qpTmRJw/ecommerce-01.png)
 
-## Ecommerce - API 
+## Ecommerce - WEB - REACT 
 
 Este repositório é composto por uma aplicação Web (React) desenvolvida ao longo do **[BOOTCAMP ONE BIT CODE](https://onebitcode.com/)**.
 
